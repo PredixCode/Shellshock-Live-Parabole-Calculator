@@ -1,5 +1,7 @@
 # Shellshock-Live-Parabole-Calculator
-Calculates a trajectory wich overlays the game
+- Calculates a trajectory based on the positions given to intersect the enemy
+- Graphic display over screen
+- Currently doesnt calculate winds
 
 USAGE:
 LEFT MOUSE BUTTON: position player
